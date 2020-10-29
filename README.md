@@ -4,7 +4,7 @@
 
 ##部分效果图
 
-![消息](https://raw.githubusercontent.com/error-code/chat/main/img/1.jpg)
+![消息](https://raw.githubusercontent.com/error-code/chat/main/img/1.jpg =400)
 ![通讯录](https://raw.githubusercontent.com/error-code/chat/main/img/2.jpg)
 ![发现](https://raw.githubusercontent.com/error-code/chat/main/img/3.jpg)
 ![我](https://raw.githubusercontent.com/error-code/chat/main/img/4.jpg)
