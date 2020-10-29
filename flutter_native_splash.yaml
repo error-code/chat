@@ -2,3 +2,4 @@ flutter_native_splash:
   image: assets/splash.png
   color: "093660"
   fill: true
+  ios:false
