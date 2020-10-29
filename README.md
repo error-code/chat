@@ -2,9 +2,9 @@
  练习项目，尽可能达到高仿效果
 
 
-##部分效果图
+###部分效果图
 
-![消息](https://raw.githubusercontent.com/error-code/chat/main/img/1.jpg =400)
+![消息 -w150](https://raw.githubusercontent.com/error-code/chat/main/img/1.jpg)
 ![通讯录](https://raw.githubusercontent.com/error-code/chat/main/img/2.jpg)
 ![发现](https://raw.githubusercontent.com/error-code/chat/main/img/3.jpg)
 ![我](https://raw.githubusercontent.com/error-code/chat/main/img/4.jpg)
